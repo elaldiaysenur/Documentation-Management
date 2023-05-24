@@ -1,0 +1,150 @@
+{
+  "projects": [
+    {
+      "id": "idDMMXQTDMEI3B-I4y3y7BS",
+      "projectName": "Okul",
+      "createdDate": "2023-04-15T08:33:07.662Z",
+      "updatedDate": "2023-05-23T13:43:46.184Z",
+      "createdPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "updatedPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "totalContent": 5,
+      "visibilityRole": 0
+    },
+    {
+      "id": "idgb1ElNEHnVj0F14zNwreE",
+      "projectName": "Hastane",
+      "createdDate": "2023-04-23T08:33:10.470Z",
+      "updatedDate": "2023-05-27T08:33:10.470Z",
+      "createdPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "updatedPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "totalContent": 0,
+      "visibilityRole": 0
+    },
+    {
+      "id": "idDwTrd4DU0Fd3HAqqXIhM1",
+      "projectName": "Kütüphane",
+      "createdDate": "2023-04-30T08:33:13.106Z",
+      "updatedDate": "2023-05-23T13:43:39.526Z",
+      "createdPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "updatedPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "totalContent": 0,
+      "visibilityRole": 0
+    }
+  ],
+  "contents": [
+    {
+      "id": "idDmzKB7VgjSc1asYAVx0Kw",
+      "contentName": "Okul",
+      "createdPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "updatedPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "createdDate": "2023-05-24T12:20:44.055Z",
+      "updatedDate": "2023-05-24T12:49:15.638Z",
+      "version": 0,
+      "content": "test",
+      "contentTags": [
+        {
+          "id": "i4nXm6E46lw1SchKXAwRm",
+          "tag": "Öğrenci"
+        },
+        {
+          "id": "mTqhXSb_YP02eqmzO8FFc",
+          "tag": "Öğretmen"
+        },
+        {
+          "id": "kyU5ndeMetAQ8IgrLkAjj",
+          "tag": "Akademisyen"
+        }
+      ],
+      "projectId": "idDMMXQTDMEI3B-I4y3y7BS"
+    },
+    {
+      "id": "idmV8JKbSM0dQeUY1FsCp7Q",
+      "contentName": "Okul",
+      "createdDate": "2023-05-24T12:21:08.060Z",
+      "updatedDate": "2023-05-24T12:49:24.010Z",
+      "createdPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "updatedPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "version": 0,
+      "content": "test",
+      "contentTags": [
+        {
+          "id": "6U11oZg5ExPjw834iBsMQ",
+          "tag": "Öğrenci"
+        }
+      ],
+      "projectId": "idDMMXQTDMEI3B-I4y3y7BS"
+    }
+  ],
+  "users": [
+    {
+      "id": "idlmEzEIU1sZQVORJ1cYOes",
+      "name": "admin",
+      "surname": "admin",
+      "password": "123",
+      "role": 1,
+      "createdPerson": "admin",
+      "createdDate": "2023-05-18T11:15:11.603Z",
+      "updatedDate": "2023-05-18T12:01:35.137Z",
+      "updatedPerson": "admin",
+      "totalProject": 0
+    },
+    {
+      "id": "idw0cm-o_0mMScV-5U5Ji_v",
+      "name": "Emrah",
+      "surname": "Morgil",
+      "password": "123",
+      "role": 0,
+      "totalProject": 12,
+      "createdDate": "2023-05-23T08:31:24.890Z",
+      "updatedDate": "2023-05-23T08:31:24.890Z",
+      "createdPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "updatedPerson": "idlmEzEIU1sZQVORJ1cYOes"
+    },
+    {
+      "id": "idk8zOr-EgTsUKy5Rf2uvTY",
+      "name": "Ömer",
+      "surname": "Morgil",
+      "password": "123",
+      "role": 0,
+      "totalProject": 0,
+      "createdDate": "2023-05-23T08:39:40.764Z",
+      "updatedDate": "2023-05-23T08:39:40.764Z",
+      "createdPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "updatedPerson": "idlmEzEIU1sZQVORJ1cYOes"
+    },
+    {
+      "id": "idwGZSyd8h7wpk5nuHgefcN",
+      "name": "Atay",
+      "surname": "Morgil",
+      "password": "123",
+      "role": 0,
+      "totalProject": 3,
+      "createdDate": "2023-05-23T08:39:46.035Z",
+      "updatedDate": "2023-05-23T08:39:46.035Z",
+      "createdPerson": "idlmEzEIU1sZQVORJ1cYOes",
+      "updatedPerson": "idlmEzEIU1sZQVORJ1cYOes"
+    }
+  ],
+  "visibilityProjects": [
+    {
+      "id": "qymOCjNCbukiPdLOYTBFK",
+      "projectId": "idDMMXQTDMEI3B-I4y3y7BS",
+      "userId": "idwGZSyd8h7wpk5nuHgefcN"
+    },
+    {
+      "id": "OGJliB4EUQtgmNyFQoVpZ",
+      "userId": "idw0cm-o_0mMScV-5U5Ji_v",
+      "projectId": "idDMMXQTDMEI3B-I4y3y7BS"
+    },
+    {
+      "id": "d4L2aB0eFAhduMw9Taso1",
+      "userId": "idw0cm-o_0mMScV-5U5Ji_v",
+      "projectId": "idgb1ElNEHnVj0F14zNwreE"
+    },
+    {
+      "id": "Q8NF8fsm5tuocMGFP_6Yq",
+      "userId": "idw0cm-o_0mMScV-5U5Ji_v",
+      "projectId": "idDwTrd4DU0Fd3HAqqXIhM1"
+    }
+  ]
+}
